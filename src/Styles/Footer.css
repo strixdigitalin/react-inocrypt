@@ -1,0 +1,8 @@
+.customFooter { 
+    position: fixed;
+    bottom: 0;
+    background-color: aqua;
+    color: black;
+width: 100%;
+height: 200px;
+}
